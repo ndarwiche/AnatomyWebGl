@@ -13,8 +13,128 @@
       "Text": "Teeth"
     },
     {
-      "Id": "Tongue",
-      "Text": "Tongue"
+      "Id": "Stop",
+      "Text": "Stop"
+    },
+    {
+      "Id": "Museau/Chanfrein",
+      "Text": "Museau/Chanfrein"
+    },
+    {
+      "Id": "Truffe",
+      "Text": "Truffe"
+    },
+    {
+      "Id": "Oreille",
+      "Text": "Oreille"
+    },
+    {
+      "Id": "Nuque",
+      "Text": "Nuque"
+    },
+    {
+      "Id": "Babines",
+      "Text": "Babines"
+    },
+    {
+      "Id": "Gueule",
+      "Text": "Gueule"
+    },
+    {
+      "Id": "Mandibule",
+      "Text": "Mandibule"
+    },
+    {
+      "Id": "Gorge",
+      "Text": "Gorge"
+    },
+    {
+      "Id": "Cou/enclosure",
+      "Text": "Cou/enclosure"
+    },
+    {
+      "Id": "Garrot",
+      "Text": "Garrot"
+    },
+    {
+      "Id": "Dos",
+      "Text": "Dos"
+    },
+    {
+      "Id": "Rein",
+      "Text": "Rein"
+    },
+    {
+      "Id": "Croupe",
+      "Text": "Croupe"
+    },
+    {
+      "Id": "Queue/Fouet",
+      "Text": "Queue/Fouet"
+    },
+    {
+      "Id": "PointdelaFesse",
+      "Text": "PointdelaFesse"
+    },
+    {
+      "Id": "Cuisse",
+      "Text": "Cuisse"
+    },
+    {
+      "Id": "PointeduJarret",
+      "Text": "PointeduJarret"
+    },
+    {
+      "Id": "Metatarse",
+      "Text": "Metatarse"
+    },
+    {
+      "Id": "Doigts",
+      "Text": "Doigts"
+    },
+    {
+      "Id": "Jambe",
+      "Text": "Jambe"
+    },
+    {
+      "Id": "Grasset/Genou",
+      "Text": "Grasset/Genou"
+    },
+    {
+      "Id": "Aine",
+      "Text": "Aine"
+    },
+    {
+      "Id": "Flanc",
+      "Text": "Flanc"
+    },
+    {
+      "Id": "Abdomen",
+      "Text": "Abdomen"
+    },
+    {
+      "Id": "Coude",
+      "Text": "Coude"
+    },
+    {
+      "Id": "Metacarpe",
+      "Text": "Metacarpe"
+    },
+    {
+      "Id": "Avant-Bras",
+      "Text": "Avant-Bras"
+    },
+    {
+      "Id": "Poitrail",
+      "Text": "Poitrail"
+    },
+    {
+      "Id": "Epaule",
+      "Text": "Epaule"
+    },
+    {
+      "Id": "PointedeEpaule",
+      "Text": "PointedeEpaule"
     },
     {
       "Id": "Atlas_c1",
@@ -155,6 +275,10 @@
     {
       "Id": "Pelvis_ischium_ilium",
       "Text": "Pelvis_ischium_ilium"
+    },
+    {
+      "Id": "PenisBones",
+      "Text": "PenisBones"
     },
     {
       "Id": "R_calcaneus",
@@ -361,16 +485,8 @@
       "Text": "Bronchi"
     },
     {
-      "Id": "Digestive_system ",
-      "Text": "Digestive_system "
-    },
-    {
       "Id": "Gallbladder",
       "Text": "Gallbladder"
-    },
-    {
-      "Id": "Heart",
-      "Text": "Heart"
     },
     {
       "Id": "Kidney",
@@ -379,10 +495,6 @@
     {
       "Id": "Liver",
       "Text": "Liver"
-    },
-    {
-      "Id": "Lungs",
-      "Text": "Lungs"
     },
     {
       "Id": "Penis",
@@ -395,6 +507,102 @@
     {
       "Id": "Trachea",
       "Text": "Trachea"
+    },
+    {
+      "Id": "Diaphragme",
+      "Text": "Diaphragme"
+    },
+    {
+      "Id": "Heart",
+      "Text": "Heart"
+    },
+    {
+      "Id": "Lungs",
+      "Text": "Lungs"
+    },
+    {
+      "Id": "Digestive_system ",
+      "Text": "Digestive_system "
+    },
+    {
+      "Id": "Digestive_system pancreas",
+      "Text": "Digestive_system pancreas"
+    },
+    {
+      "Id": "BoursesGraisseuse",
+      "Text": "BoursesGraisseuse"
+    },
+    {
+      "Id": "Ovaire",
+      "Text": "Ovaire"
+    },
+    {
+      "Id": "Trompes",
+      "Text": "Trompes"
+    },
+    {
+      "Id": "UretereF",
+      "Text": "UretereF"
+    },
+    {
+      "Id": "UretresF",
+      "Text": "UretresF"
+    },
+    {
+      "Id": "Uterus",
+      "Text": "Uterus"
+    },
+    {
+      "Id": "Vagina",
+      "Text": "Vagina"
+    },
+    {
+      "Id": "VessieF",
+      "Text": "VessieF"
+    },
+    {
+      "Id": "Vulves",
+      "Text": "Vulves"
+    },
+    {
+      "Id": "-Kidney",
+      "Text": "Kidney"
+    },
+    {
+      "Id": "CanalDeferent",
+      "Text": "CanalDeferent"
+    },
+    {
+      "Id": "Epididyme",
+      "Text": "Epididyme"
+    },
+    {
+      "Id": "MKidney",
+      "Text": "MKidney"
+    },
+    {
+      "Id": "Prostate",
+      "Text": "Prostate"
+    },
+    {
+      "Id": "Testicle",
+      "Text": "Testicle"
+    },
+    {
+      "Id": "UretereM",
+      "Text": "UretereM"
+    },
+    {
+      "Id": "UretreM",
+      "Text": "UretreM"
+    },
+    {
+      "Id": "VessieM",
+      "Text": "VessieM"
+    },
+    {
+      "Id": "-GlandeSurrenal",
+      "Text": "GlandeSurrenal"
     }
   ],
   "French": [
@@ -404,227 +612,355 @@
     },
     {
       "Id": "Eyes",
-      "Text": "Eyes"
+      "Text": "Yeux "
     },
     {
       "Id": "Teeth",
-      "Text": "Teeth"
+      "Text": "Dents"
     },
     {
       "Id": "Tongue",
-      "Text": "Tongue"
+      "Text": "Langue"
+    },
+    {
+      "Id": "Stop",
+      "Text": "Stop"
+    },
+    {
+      "Id": "Museau/Chanfrein",
+      "Text": "Museau/Chanfrein"
+    },
+    {
+      "Id": "Truffe",
+      "Text": "Truffe"
+    },
+    {
+      "Id": "Oreille",
+      "Text": "Oreille"
+    },
+    {
+      "Id": "Nuque",
+      "Text": "Nuque"
+    },
+    {
+      "Id": "Babines",
+      "Text": "Babines"
+    },
+    {
+      "Id": "Gueule",
+      "Text": "Gueule"
+    },
+    {
+      "Id": "Mandibule",
+      "Text": "Mandibule"
+    },
+    {
+      "Id": "Gorge",
+      "Text": "Gorge"
+    },
+    {
+      "Id": "Cou/enclosure",
+      "Text": "Cou/enclosure"
+    },
+    {
+      "Id": "Garrot",
+      "Text": "Garrot"
+    },
+    {
+      "Id": "Dos",
+      "Text": "Dos"
+    },
+    {
+      "Id": "Rein",
+      "Text": "Rein"
+    },
+    {
+      "Id": "Croupe",
+      "Text": "Croupe"
+    },
+    {
+      "Id": "Queue/Fouet",
+      "Text": "Queue/Fouet"
+    },
+    {
+      "Id": "PointdelaFesse",
+      "Text": "PointdelaFesse"
+    },
+    {
+      "Id": "Cuisse",
+      "Text": "Cuisse"
+    },
+    {
+      "Id": "PointeduJarret",
+      "Text": "PointeduJarret"
+    },
+    {
+      "Id": "Metatarse",
+      "Text": "Metatarse"
+    },
+    {
+      "Id": "Doigts",
+      "Text": "Doigts"
+    },
+    {
+      "Id": "Jambe",
+      "Text": "Jambe"
+    },
+    {
+      "Id": "Grasset/Genou",
+      "Text": "Grasset/Genou"
+    },
+    {
+      "Id": "Aine",
+      "Text": "Aine"
+    },
+    {
+      "Id": "Flanc",
+      "Text": "Flanc"
+    },
+    {
+      "Id": "Abdomen",
+      "Text": "Abdomen"
+    },
+    {
+      "Id": "Coude",
+      "Text": "Coude"
+    },
+    {
+      "Id": "Metacarpe",
+      "Text": "Metacarpe"
+    },
+    {
+      "Id": "Avant-Bras",
+      "Text": "Avant-Bras"
+    },
+    {
+      "Id": "Poitrail",
+      "Text": "Poitrail"
+    },
+    {
+      "Id": "Epaule",
+      "Text": "Epaule"
+    },
+    {
+      "Id": "PointedeEpaule",
+      "Text": "PointedeEpaule"
     },
     {
       "Id": "Atlas_c1",
-      "Text": "Atlas_c1"
+      "Text": "Atlas (vertèbre cervicale C1)"
     },
     {
       "Id": "Axis_c2",
-      "Text": "Axis_c2"
+      "Text": "Axis (vertèbre cervicale C2)"
     },
     {
       "Id": "c3",
-      "Text": "c3"
+      "Text": "vertèbre cervicale C3"
     },
     {
       "Id": "c4",
-      "Text": "c4"
+      "Text": "vertèbre cervicale c4"
     },
     {
       "Id": "c5",
-      "Text": "c5"
+      "Text": "vertèbre cervicale c5"
     },
     {
       "Id": "c6",
-      "Text": "c6"
+      "Text": "vertèbre cervicale c6"
     },
     {
       "Id": "c7",
-      "Text": "c7"
+      "Text": "vertèbre cervicale c7"
     },
     {
       "Id": "Costal_cartilage",
-      "Text": "Costal_cartilage"
+      "Text": "cartilage costal"
     },
     {
       "Id": "Hyoid",
-      "Text": "Hyoid"
+      "Text": "ne pas le mettre"
     },
     {
       "Id": "L1",
-      "Text": "L1"
+      "Text": "vertèbre lombaire L1"
     },
     {
       "Id": "L2",
-      "Text": "L2"
+      "Text": "vertèbre lombaire L2"
     },
     {
       "Id": "L3",
-      "Text": "L3"
+      "Text": "vertèbre lombaire L3"
     },
     {
       "Id": "L4",
-      "Text": "L4"
+      "Text": "vertèbre lombaire L4"
     },
     {
       "Id": "L5",
-      "Text": "L5"
+      "Text": "vertèbre lombaire L5"
     },
     {
       "Id": "L6",
-      "Text": "L6"
+      "Text": "vertèbre lombaire L6"
     },
     {
       "Id": "L7",
-      "Text": "L7"
+      "Text": "vertèbre lombaire L7"
     },
     {
       "Id": "L_calcaneus",
-      "Text": "L_calcaneus"
+      "Text": "calcaneum"
     },
     {
       "Id": "L_carpus",
-      "Text": "L_carpus"
+      "Text": "carpe"
     },
     {
       "Id": "L_femur",
-      "Text": "L_femur"
+      "Text": "fémur"
     },
     {
       "Id": "L_fibula",
-      "Text": "L_fibula"
+      "Text": "fibula"
     },
     {
       "Id": "L_humerus",
-      "Text": "L_humerus"
+      "Text": "humérus"
     },
     {
       "Id": "L_metacarpus",
-      "Text": "L_metacarpus"
+      "Text": "métacarpes"
     },
     {
       "Id": "L_metatarsus",
-      "Text": "L_metatarsus"
+      "Text": "métatarses"
     },
     {
       "Id": "L_patella",
-      "Text": "L_patella"
+      "Text": "rotule ou patelle"
     },
     {
       "Id": "L_phalanges_forelimb",
-      "Text": "L_phalanges_forelimb"
+      "Text": "phalanges"
     },
     {
       "Id": "L_phalanges_rear",
-      "Text": "L_phalanges_rear"
+      "Text": "phalanges"
     },
     {
       "Id": "L_pisiform",
-      "Text": "L_pisiform"
+      "Text": "ne pas le mettre"
     },
     {
       "Id": "L_radius",
-      "Text": "L_radius"
+      "Text": "radius"
     },
     {
       "Id": "L_scapula",
-      "Text": "L_scapula"
+      "Text": "scapula"
     },
     {
       "Id": "L_tarsus",
-      "Text": "L_tarsus"
+      "Text": "tarse"
     },
     {
       "Id": "L_tibia",
-      "Text": "L_tibia"
+      "Text": "tibia"
     },
     {
       "Id": "L_ulna",
-      "Text": "L_ulna"
+      "Text": "ulna"
     },
     {
       "Id": "Mandible",
-      "Text": "Mandible"
+      "Text": "mandibule"
     },
     {
       "Id": "Maxilla",
-      "Text": "Maxilla"
+      "Text": "maxillaire"
     },
     {
       "Id": "Pelvis_ischium_ilium",
-      "Text": "Pelvis_ischium_ilium"
+      "Text": "os du bassin"
+    },
+    {
+      "Id": "PenisBones",
+      "Text": "Os du pénis"
     },
     {
       "Id": "R_calcaneus",
-      "Text": "R_calcaneus"
+      "Text": "calcaneum"
     },
     {
       "Id": "R_carpus",
-      "Text": "R_carpus"
+      "Text": "carpe"
     },
     {
       "Id": "R_femur",
-      "Text": "R_femur"
+      "Text": "fémur"
     },
     {
       "Id": "R_fibula",
-      "Text": "R_fibula"
+      "Text": "fibula"
     },
     {
       "Id": "R_humerus",
-      "Text": "R_humerus"
+      "Text": "humérus"
     },
     {
       "Id": "R_metacarpus",
-      "Text": "R_metacarpus"
+      "Text": "métacarpes"
     },
     {
       "Id": "R_metatarsus",
-      "Text": "R_metatarsus"
+      "Text": "métatarses"
     },
     {
       "Id": "R_patella",
-      "Text": "R_patella"
+      "Text": "patelle ou rotule"
     },
     {
       "Id": "R_phalanges_forelimb",
-      "Text": "R_phalanges_forelimb"
+      "Text": "phalanges"
     },
     {
       "Id": "R_phalanges_rear",
-      "Text": "R_phalanges_rear"
+      "Text": "phalanges"
     },
     {
       "Id": "R_pisiform",
-      "Text": "R_pisiform"
+      "Text": "ne pas le mettre"
     },
     {
       "Id": "R_radius",
-      "Text": "R_radius"
+      "Text": "radius"
     },
     {
       "Id": "R_scapula",
-      "Text": "R_scapula"
+      "Text": "scapula"
     },
     {
       "Id": "R_tarsus",
-      "Text": "R_tarsus"
+      "Text": "tarse"
     },
     {
       "Id": "R_tibia",
-      "Text": "R_tibia"
+      "Text": "tibia"
     },
     {
       "Id": "R_ulna",
-      "Text": "R_ulna"
+      "Text": "ulna"
     },
     {
       "Id": "Ribs",
-      "Text": "Ribs"
+      "Text": "côtes"
     },
     {
       "Id": "Sacral_vertebrae",
-      "Text": "Sacral_vertebrae"
+      "Text": "sacrum"
     },
     {
       "Id": "Sternum",
@@ -632,167 +968,249 @@
     },
     {
       "Id": "T1",
-      "Text": "T1"
+      "Text": "vertèbre thoracique T1"
     },
     {
       "Id": "T2",
-      "Text": "T2"
+      "Text": "vertèbre thoracique T2"
     },
     {
       "Id": "T3",
-      "Text": "T3"
+      "Text": "vertèbre thoracique T3"
     },
     {
       "Id": "T4",
-      "Text": "T4"
+      "Text": "vertèbre thoracique T4"
     },
     {
       "Id": "T5",
-      "Text": "T5"
+      "Text": "vertèbre thoracique T5"
     },
     {
       "Id": "T6",
-      "Text": "T6"
+      "Text": "vertèbre thoracique T6"
     },
     {
       "Id": "T7",
-      "Text": "T7"
+      "Text": "vertèbre thoracique T7"
     },
     {
       "Id": "T8",
-      "Text": "T8"
+      "Text": "vertèbre thoracique T8"
     },
     {
       "Id": "T9",
-      "Text": "T9"
+      "Text": "vertèbre thoracique T9"
     },
     {
       "Id": "T10",
-      "Text": "T10"
+      "Text": "vertèbre thoracique T10"
     },
     {
       "Id": "T11",
-      "Text": "T11"
+      "Text": "vertèbre thoracique T11"
     },
     {
       "Id": "T12",
-      "Text": "T12"
+      "Text": "vertèbre thoracique T12"
     },
     {
-      "Id": "TeethBot",
-      "Text": "TeethBot"
+      "Id": "TeethBot"
     },
     {
-      "Id": "TeethTop",
-      "Text": "TeethTop"
+      "Id": "TeethTop"
     },
     {
       "Id": "Ca1",
-      "Text": "Ca1"
+      "Text": "vertèbre caudale 1"
     },
     {
       "Id": "Ca2",
-      "Text": "Ca2"
+      "Text": "vertèbre caudale 2"
     },
     {
       "Id": "Ca3",
-      "Text": "Ca3"
+      "Text": "vertèbre caudale 3"
     },
     {
       "Id": "Ca4",
-      "Text": "Ca4"
+      "Text": "vertèbre caudale 4"
     },
     {
       "Id": "Ca5",
-      "Text": "Ca5"
+      "Text": "vertèbre caudale 5"
     },
     {
       "Id": "Ca6",
-      "Text": "Ca6"
+      "Text": "vertèbre caudale 6"
     },
     {
       "Id": "Ca7",
-      "Text": "Ca7"
+      "Text": " vertèbre caudale 7"
     },
     {
       "Id": "Ca8",
-      "Text": "Ca8"
+      "Text": "vertèbre caudale 8"
     },
     {
       "Id": "Ca9",
-      "Text": "Ca9"
+      "Text": "vertèbre caudale 9"
     },
     {
       "Id": "Ca10",
-      "Text": "Ca10"
+      "Text": "vertèbre caudale 10"
     },
     {
       "Id": "Ca11",
-      "Text": "Ca11"
+      "Text": "vertèbre caudale 11"
     },
     {
       "Id": "Ca12",
-      "Text": "Ca12"
+      "Text": "vertèbre caudale 12"
     },
     {
       "Id": "Ca13",
-      "Text": "Ca13"
+      "Text": "vertèbre caudale 13"
     },
     {
       "Id": "Ca14",
-      "Text": "Ca14"
+      "Text": "vertèbre caudale 14"
     },
     {
       "Id": "Ca15",
-      "Text": "Ca15"
+      "Text": "vertèbre caudale 15"
     },
     {
       "Id": "Adrenal_gland",
-      "Text": "Adrenal_gland"
+      "Text": "glande surrénale"
     },
     {
       "Id": "Bronch_cartilage",
-      "Text": "Bronch_cartilage"
+      "Text": "cartilage bronchique"
     },
     {
       "Id": "Bronchi",
-      "Text": "Bronchi"
-    },
-    {
-      "Id": "Digestive_system ",
-      "Text": "Digestive_system "
+      "Text": "Bronche"
     },
     {
       "Id": "Gallbladder",
-      "Text": "Gallbladder"
+      "Text": "Vésicule biliaire"
     },
     {
       "Id": "Heart",
-      "Text": "Heart"
+      "Text": "coeur"
     },
     {
       "Id": "Kidney",
-      "Text": "Kidney"
+      "Text": "rein"
     },
     {
       "Id": "Liver",
-      "Text": "Liver"
+      "Text": "foie"
     },
     {
       "Id": "Lungs",
-      "Text": "Lungs"
+      "Text": "poumons"
     },
     {
       "Id": "Penis",
-      "Text": "Penis"
+      "Text": "pénis"
     },
     {
       "Id": "Spleen",
-      "Text": "Spleen"
+      "Text": "rate"
     },
     {
       "Id": "Trachea",
-      "Text": "Trachea"
+      "Text": "trachée"
+    },
+    {
+      "Id": "Diaphragme",
+      "Text": "Diaphragme"
+    },
+    {
+      "Id": "Digestive_system ",
+      "Text": "Appareil digestif"
+    },
+    {
+      "Id": "Digestive_system pancreas",
+      "Text": "Pancréas"
+    },
+    {
+      "Id": "BoursesGraisseuse",
+      "Text": "bourse graisseuse"
+    },
+    {
+      "Id": "Ovaire",
+      "Text": "ovaire"
+    },
+    {
+      "Id": "Trompes",
+      "Text": "trompe"
+    },
+    {
+      "Id": "UretereF",
+      "Text": "uretère"
+    },
+    {
+      "Id": "UretresF",
+      "Text": "urètre"
+    },
+    {
+      "Id": "Uterus",
+      "Text": "utérus"
+    },
+    {
+      "Id": "Vagina",
+      "Text": "vagin"
+    },
+    {
+      "Id": "VessieF",
+      "Text": "vessie"
+    },
+    {
+      "Id": "Vulves",
+      "Text": "vulve"
+    },
+    {
+      "Id": "-Kidney",
+      "Text": "rein"
+    },
+    {
+      "Id": "CanalDeferent",
+      "Text": "canal déférent"
+    },
+    {
+      "Id": "Epididyme",
+      "Text": "épididyme"
+    },
+    {
+      "Id": "MKidney",
+      "Text": "rein"
+    },
+    {
+      "Id": "Prostate",
+      "Text": "prostate"
+    },
+    {
+      "Id": "Testicle",
+      "Text": "testicule"
+    },
+    {
+      "Id": "UretereM",
+      "Text": "uretère"
+    },
+    {
+      "Id": "UretreM",
+      "Text": "urètre"
+    },
+    {
+      "Id": "VessieM",
+      "Text": "vessie"
+    },
+    {
+      "Id": "-GlandeSurrenal",
+      "Text": "glande surrénale"
     }
   ]
 }
