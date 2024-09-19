@@ -1015,10 +1015,12 @@
       "Text": "vertèbre thoracique T12"
     },
     {
-      "Id": "TeethBot"
+      "Id": "TeethBot",
+      "Text": ""
     },
     {
-      "Id": "TeethTop"
+      "Id": "TeethTop",
+      "Text": ""
     },
     {
       "Id": "Ca1",
