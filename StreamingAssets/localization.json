@@ -1,16 +1,16 @@
 {
   "English": [
     {
-      "Id": "Body",
-      "Text": "Body"
-    },
-    {
       "Id": "Eyes",
       "Text": "Eyes"
     },
     {
       "Id": "Teeth",
       "Text": "Teeth"
+    },
+    {
+      "Id": "Tongue",
+      "Text": "Tongue"
     },
     {
       "Id": "Stop",
@@ -111,6 +111,10 @@
     {
       "Id": "Abdomen",
       "Text": "Abdomen"
+    },
+    {
+      "Id": "Sternum",
+      "Text": "Sternum"
     },
     {
       "Id": "Coude",
@@ -485,8 +489,16 @@
       "Text": "Bronchi"
     },
     {
+      "Id": "Digestive_system ",
+      "Text": "Digestive_system "
+    },
+    {
       "Id": "Gallbladder",
       "Text": "Gallbladder"
+    },
+    {
+      "Id": "Heart",
+      "Text": "Heart"
     },
     {
       "Id": "Kidney",
@@ -495,6 +507,10 @@
     {
       "Id": "Liver",
       "Text": "Liver"
+    },
+    {
+      "Id": "Lungs",
+      "Text": "Lungs"
     },
     {
       "Id": "Penis",
@@ -509,8 +525,8 @@
       "Text": "Trachea"
     },
     {
-      "Id": "Diaphragme",
-      "Text": "Diaphragme"
+      "Id": "Bronchi",
+      "Text": "Bronchi"
     },
     {
       "Id": "Heart",
@@ -521,12 +537,44 @@
       "Text": "Lungs"
     },
     {
-      "Id": "Digestive_system ",
-      "Text": "Digestive_system "
+      "Id": "Trachea",
+      "Text": "Trachea"
     },
     {
       "Id": "Digestive_system pancreas",
       "Text": "Digestive_system pancreas"
+    },
+    {
+      "Id": "Digestive_system-Colon",
+      "Text": "Digestive_system-Colon"
+    },
+    {
+      "Id": "Digestive_system-Duodenum",
+      "Text": "Digestive_system-Duodenum"
+    },
+    {
+      "Id": "Digestive_system-Estomac",
+      "Text": "Digestive_system-Estomac"
+    },
+    {
+      "Id": "Digestive_system-Oseophage",
+      "Text": "Digestive_system-Oseophage"
+    },
+    {
+      "Id": "Digestive_system_IntestinG",
+      "Text": "Digestive_system_IntestinG"
+    },
+    {
+      "Id": "Gallbladder",
+      "Text": "Gallbladder"
+    },
+    {
+      "Id": "Liver",
+      "Text": "Liver"
+    },
+    {
+      "Id": "Spleen",
+      "Text": "Spleen"
     },
     {
       "Id": "BoursesGraisseuse",
@@ -565,8 +613,12 @@
       "Text": "Vulves"
     },
     {
+      "Id": "-GlandeSurrenal",
+      "Text": "-GlandeSurrenal"
+    },
+    {
       "Id": "-Kidney",
-      "Text": "Kidney"
+      "Text": "-Kidney"
     },
     {
       "Id": "CanalDeferent",
@@ -579,6 +631,10 @@
     {
       "Id": "MKidney",
       "Text": "MKidney"
+    },
+    {
+      "Id": "Penis",
+      "Text": "Penis"
     },
     {
       "Id": "Prostate",
@@ -602,14 +658,10 @@
     },
     {
       "Id": "-GlandeSurrenal",
-      "Text": "GlandeSurrenal"
+      "Text": "-GlandeSurrenal"
     }
   ],
   "French": [
-    {
-      "Id": "Body",
-      "Text": "Corps"
-    },
     {
       "Id": "Eyes",
       "Text": "Yeux "
@@ -660,7 +712,7 @@
     },
     {
       "Id": "Cou/enclosure",
-      "Text": "Cou/enclosure"
+      "Text": "Cou/encolure"
     },
     {
       "Id": "Garrot",
@@ -723,6 +775,10 @@
       "Text": "Abdomen"
     },
     {
+      "Id": "Sternum",
+      "Text": "Sternum"
+    },
+    {
       "Id": "Coude",
       "Text": "Coude"
     },
@@ -779,8 +835,7 @@
       "Text": "cartilage costal"
     },
     {
-      "Id": "Hyoid",
-      "Text": "ne pas le mettre"
+      "Id": "Hyoid"
     },
     {
       "Id": "L1",
@@ -1015,12 +1070,10 @@
       "Text": "vertèbre thoracique T12"
     },
     {
-      "Id": "TeethBot",
-      "Text": ""
+      "Id": "TeethBot"
     },
     {
-      "Id": "TeethTop",
-      "Text": ""
+      "Id": "TeethTop"
     },
     {
       "Id": "Ca1",
@@ -1095,6 +1148,10 @@
       "Text": "Bronche"
     },
     {
+      "Id": "Digestive_system ",
+      "Text": "Appareil digestif"
+    },
+    {
       "Id": "Gallbladder",
       "Text": "Vésicule biliaire"
     },
@@ -1127,16 +1184,56 @@
       "Text": "trachée"
     },
     {
-      "Id": "Diaphragme",
+      "Id": "Bronchi",
+      "Text": "Cartilage bronchique"
+    },
+    {
+      "Id": "Heart",
+      "Text": "Bronche"
+    },
+    {
+      "Id": "Lungs",
       "Text": "Diaphragme"
     },
     {
-      "Id": "Digestive_system ",
-      "Text": "Appareil digestif"
+      "Id": "Trachea",
+      "Text": "coeur"
     },
     {
       "Id": "Digestive_system pancreas",
       "Text": "Pancréas"
+    },
+    {
+      "Id": "Digestive_system-Colon",
+      "Text": "Colon"
+    },
+    {
+      "Id": "Digestive_system-Duodenum",
+      "Text": "Duodenum"
+    },
+    {
+      "Id": "Digestive_system-Estomac",
+      "Text": "Estomac"
+    },
+    {
+      "Id": "Digestive_system-Oseophage",
+      "Text": "Oseophage"
+    },
+    {
+      "Id": "Digestive_system_IntestinG",
+      "Text": "Intestin"
+    },
+    {
+      "Id": "Gallbladder",
+      "Text": "Vésicule biliaire"
+    },
+    {
+      "Id": "Liver",
+      "Text": "foie"
+    },
+    {
+      "Id": "Spleen",
+      "Text": "rate"
     },
     {
       "Id": "BoursesGraisseuse",
@@ -1175,6 +1272,10 @@
       "Text": "vulve"
     },
     {
+      "Id": "-GlandeSurrenal",
+      "Text": "glande surrenale"
+    },
+    {
       "Id": "-Kidney",
       "Text": "rein"
     },
@@ -1189,6 +1290,10 @@
     {
       "Id": "MKidney",
       "Text": "rein"
+    },
+    {
+      "Id": "Penis",
+      "Text": "pénis"
     },
     {
       "Id": "Prostate",
