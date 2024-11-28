@@ -664,7 +664,7 @@
   "French": [
     {
       "Id": "Eyes",
-      "Text": "Yeux "
+      "Text": "Yeux"
     },
     {
       "Id": "Teeth",
@@ -712,7 +712,7 @@
     },
     {
       "Id": "Cou/enclosure",
-      "Text": "Cou/encolure"
+      "Text": "Cou/Encolure"
     },
     {
       "Id": "Garrot",
@@ -736,7 +736,7 @@
     },
     {
       "Id": "PointdelaFesse",
-      "Text": "PointdelaFesse"
+      "Text": "Pointe de la fesse"
     },
     {
       "Id": "Cuisse",
@@ -744,11 +744,11 @@
     },
     {
       "Id": "PointeduJarret",
-      "Text": "PointeduJarret"
+      "Text": "Pointe du jarret"
     },
     {
       "Id": "Metatarse",
-      "Text": "Metatarse"
+      "Text": "Métatarse"
     },
     {
       "Id": "Doigts",
@@ -784,11 +784,11 @@
     },
     {
       "Id": "Metacarpe",
-      "Text": "Metacarpe"
+      "Text": "Métacarpe"
     },
     {
       "Id": "Avant-Bras",
-      "Text": "Avant-Bras"
+      "Text": "Avant-bras"
     },
     {
       "Id": "Poitrail",
@@ -796,11 +796,11 @@
     },
     {
       "Id": "Epaule",
-      "Text": "Epaule"
+      "Text": "Épaule"
     },
     {
       "Id": "PointedeEpaule",
-      "Text": "PointedeEpaule"
+      "Text": "Pointe de l’épaule"
     },
     {
       "Id": "Atlas_c1",
@@ -812,27 +812,27 @@
     },
     {
       "Id": "c3",
-      "Text": "vertèbre cervicale C3"
+      "Text": "Vertèbre cervicale C3"
     },
     {
       "Id": "c4",
-      "Text": "vertèbre cervicale c4"
+      "Text": "Vertèbre cervicale C4"
     },
     {
       "Id": "c5",
-      "Text": "vertèbre cervicale c5"
+      "Text": "Vertèbre cervicale C5"
     },
     {
       "Id": "c6",
-      "Text": "vertèbre cervicale c6"
+      "Text": "Vertèbre cervicale C6"
     },
     {
       "Id": "c7",
-      "Text": "vertèbre cervicale c7"
+      "Text": "Vertèbre cervicale C7"
     },
     {
       "Id": "Costal_cartilage",
-      "Text": "cartilage costal"
+      "Text": "Cartilage costal"
     },
     {
       "Id": "Hyoid"
@@ -867,43 +867,43 @@
     },
     {
       "Id": "L_calcaneus",
-      "Text": "calcaneum"
+      "Text": "Calcanéum"
     },
     {
       "Id": "L_carpus",
-      "Text": "carpe"
+      "Text": "Carpe"
     },
     {
       "Id": "L_femur",
-      "Text": "fémur"
+      "Text": "Fémur"
     },
     {
       "Id": "L_fibula",
-      "Text": "fibula"
+      "Text": "Fibula"
     },
     {
       "Id": "L_humerus",
-      "Text": "humérus"
+      "Text": "Humérus"
     },
     {
       "Id": "L_metacarpus",
-      "Text": "métacarpes"
+      "Text": "Métacarpes"
     },
     {
       "Id": "L_metatarsus",
-      "Text": "métatarses"
+      "Text": "Métatarses"
     },
     {
       "Id": "L_patella",
-      "Text": "rotule ou patelle"
+      "Text": "Rotule ou Patelle"
     },
     {
       "Id": "L_phalanges_forelimb",
-      "Text": "phalanges"
+      "Text": "Phalanges"
     },
     {
       "Id": "L_phalanges_rear",
-      "Text": "phalanges"
+      "Text": "Phalanges"
     },
     {
       "Id": "L_pisiform",
@@ -911,35 +911,35 @@
     },
     {
       "Id": "L_radius",
-      "Text": "radius"
+      "Text": "Radius"
     },
     {
       "Id": "L_scapula",
-      "Text": "scapula"
+      "Text": "Scapula"
     },
     {
       "Id": "L_tarsus",
-      "Text": "tarse"
+      "Text": "Tarse"
     },
     {
       "Id": "L_tibia",
-      "Text": "tibia"
+      "Text": "Tibia"
     },
     {
       "Id": "L_ulna",
-      "Text": "ulna"
+      "Text": "Ulna"
     },
     {
       "Id": "Mandible",
-      "Text": "mandibule"
+      "Text": "Mandibule"
     },
     {
       "Id": "Maxilla",
-      "Text": "maxillaire"
+      "Text": "Maxillaire et crâne"
     },
     {
       "Id": "Pelvis_ischium_ilium",
-      "Text": "os du bassin"
+      "Text": "Os du bassin"
     },
     {
       "Id": "PenisBones",
@@ -1145,7 +1145,7 @@
     },
     {
       "Id": "Bronchi",
-      "Text": "Bronche"
+      "Text": "Bronches"
     },
     {
       "Id": "Digestive_system ",
@@ -1209,7 +1209,7 @@
     },
     {
       "Id": "Digestive_system-Duodenum",
-      "Text": "Duodenum"
+      "Text": "Duodénum"
     },
     {
       "Id": "Digestive_system-Estomac",
@@ -1217,7 +1217,7 @@
     },
     {
       "Id": "Digestive_system-Oseophage",
-      "Text": "Oseophage"
+      "Text": "Oesophage"
     },
     {
       "Id": "Digestive_system_IntestinG",
