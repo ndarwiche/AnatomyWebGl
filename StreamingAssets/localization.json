@@ -867,67 +867,66 @@
     },
     {
       "Id": "L_calcaneus",
-      "Text": "Calcanéum"
+      "Text": "Calcanéum gauche"
     },
     {
       "Id": "L_carpus",
-      "Text": "Carpe"
+      "Text": "Carpe gauche"
     },
     {
       "Id": "L_femur",
-      "Text": "Fémur"
+      "Text": "Fémur gauche"
     },
     {
       "Id": "L_fibula",
-      "Text": "Fibula"
+      "Text": "Fibula gauche"
     },
     {
       "Id": "L_humerus",
-      "Text": "Humérus"
+      "Text": "Humérus gauche"
     },
     {
       "Id": "L_metacarpus",
-      "Text": "Métacarpes"
+      "Text": "Métacarpes gauche"
     },
     {
       "Id": "L_metatarsus",
-      "Text": "Métatarses"
+      "Text": "Métatarses gauche"
     },
     {
       "Id": "L_patella",
-      "Text": "Rotule ou Patelle"
+      "Text": "Rotule ou Patelle gauche"
     },
     {
       "Id": "L_phalanges_forelimb",
-      "Text": "Phalanges"
+      "Text": "Phalanges gauche"
     },
     {
       "Id": "L_phalanges_rear",
-      "Text": "Phalanges"
+      "Text": "Phalanges gauche"
     },
     {
-      "Id": "L_pisiform",
-      "Text": "ne pas le mettre"
+      "Id": "L_pisiform"
     },
     {
       "Id": "L_radius",
-      "Text": "Radius"
+      "Text": "Radius gauche"
     },
     {
       "Id": "L_scapula",
-      "Text": "Scapula"
+      "Text": "Scapula gauche"
     },
     {
       "Id": "L_tarsus",
-      "Text": "Tarse"
+      "Text": "Tarse gauche"
     },
     {
       "Id": "L_tibia",
-      "Text": "Tibia"
+      "Text": "Tibia gauche"
     },
     {
       "Id": "L_ulna",
-      "Text": "Ulna"
+      "Text": "Ulna gauche"
     },
     {
       "Id": "Mandible",
@@ -947,31 +946,31 @@
     },
     {
       "Id": "R_calcaneus",
-      "Text": "calcaneum"
+      "Text": "calcaneum droite"
     },
     {
       "Id": "R_carpus",
-      "Text": "carpe"
+      "Text": "carpe droite"
     },
     {
       "Id": "R_femur",
-      "Text": "fémur"
+      "Text": "fémur droite"
     },
     {
       "Id": "R_fibula",
-      "Text": "fibula"
+      "Text": "fibula droite"
     },
     {
       "Id": "R_humerus",
-      "Text": "humérus"
+      "Text": "humérus droite"
     },
     {
       "Id": "R_metacarpus",
-      "Text": "métacarpes"
+      "Text": "métacarpes droite"
     },
     {
       "Id": "R_metatarsus",
-      "Text": "métatarses"
+      "Text": "métatarses droite"
     },
     {
       "Id": "R_patella",
@@ -979,35 +978,34 @@
     },
     {
       "Id": "R_phalanges_forelimb",
-      "Text": "phalanges"
+      "Text": "phalanges droite"
     },
     {
       "Id": "R_phalanges_rear",
-      "Text": "phalanges"
+      "Text": "phalanges droite"
     },
     {
-      "Id": "R_pisiform",
-      "Text": "ne pas le mettre"
+      "Id": "R_pisiform"
     },
     {
       "Id": "R_radius",
-      "Text": "radius"
+      "Text": "radius droite"
     },
     {
       "Id": "R_scapula",
-      "Text": "scapula"
+      "Text": "scapula droite"
     },
     {
       "Id": "R_tarsus",
-      "Text": "tarse"
+      "Text": "tarse droite"
     },
     {
       "Id": "R_tibia",
-      "Text": "tibia"
+      "Text": "tibia droite"
     },
     {
       "Id": "R_ulna",
-      "Text": "ulna"
+      "Text": "ulna droite"
     },
     {
       "Id": "Ribs",
